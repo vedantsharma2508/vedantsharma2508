@@ -1,16 +1,29 @@
-## Hi there 👋
+# Vedant Sharma
 
-<!--
-**vedantsharma2508/vedantsharma2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Student, Department of Chemical Engineering, IIT Kharagpur**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am Vedant Sharma, currently pursuing my undergraduate studies in the Department of Chemical Engineering at IIT Kharagpur. I have a strong interest in **Competitive Programming** and am an enthusiastic learner in **Machine Learning**. I am always eager to explore new technologies and solve challenging problems.
+
+---
+
+## Interests
+
+- **Competitive Programming:** I enjoy solving complex problems and participating in programming contests to improve my coding skills and logical thinking.
+  
+- **Machine Learning:** I am passionate about the potential of AI and Machine Learning to revolutionize industries. I am dedicated to learning and applying these technologies to real-world problems.
+
+---
+
+## Contact
+
+- **Email:** vedant.sharma@kgpian.iitkgp.ac.in
+- **GitHub:** [VedantSharma](https://github.com/vedantsharma2508)
+- **LinkedIn:** [Vedant Sharma](www.linkedin.com/in/vedant-sharma-a12204282)
+
+---
+
+Feel free to connect with me to discuss ideas, collaborate on projects, or just have a chat about technology!
