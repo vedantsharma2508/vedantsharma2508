@@ -20,8 +20,8 @@ I am Vedant Sharma, currently pursuing my undergraduate studies in the Departmen
 
 ## Contact
 
-- **Email:** vedant.sharma@kgpian.iitkgp.ac.in
-- **GitHub:** [VedantSharma](https://github.com/vedantsharma2508)
+- **Email:** vedantsharma@kgpian.iitkgp.ac.in
+- **GitHub:** [Vedant Sharma](https://github.com/vedantsharma2508)
 - **LinkedIn:** [Vedant Sharma](www.linkedin.com/in/vedant-sharma-a12204282)
 
 ---
