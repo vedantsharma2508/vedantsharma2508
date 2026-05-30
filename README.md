@@ -11,8 +11,6 @@ I am Vedant Sharma, currently pursuing my undergraduate studies in the Departmen
 ---
 
 ## Interests
-
-- **Competitive Programming:** I enjoy solving complex problems and participating in programming contests to improve my coding skills and logical thinking.
   
 - **Machine Learning:** I am passionate about the potential of AI and Machine Learning to revolutionize industries. I am dedicated to learning and applying these technologies to real-world problems.
 
