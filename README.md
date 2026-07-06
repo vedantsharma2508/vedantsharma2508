@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am Vedant Sharma, currently pursuing my undergraduate studies in the Department of Chemical Engineering at IIT Kharagpur. I have a strong interest in **Competitive Programming** and am an enthusiastic learner in **Machine Learning**. I am always eager to explore new technologies and solve challenging problems.
+I am Vedant Sharma, currently pursuing my undergraduate studies in the Department of Chemical Engineering at IIT Kharagpur. I have a strong interest in **Data Science** and **Machine Learning**. I am always eager to explore new technologies and solve challenging problems.
 
 ---
 
