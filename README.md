@@ -23,4 +23,4 @@ I am Vedant Sharma, currently pursuing my undergraduate studies in the Departmen
 
 ---
 
-Feel free to connect with me to discuss ideas, collaborate on projects, or just have a chat about technology!
+Feel free to connect with me to discuss ideas, collaborate on projects, or just have a chat about technology !
